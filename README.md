@@ -16,3 +16,24 @@
 ✅ Complex state management in React  
 ✅ CORS configuration and API routing  
 ✅ Modular deployment (Vite for optimized frontend)  
+
+# Backend (Python)
+cd backend
+pip install -r requirements.txt
+
+# Frontend (React)
+cd frontend
+npm install
+
+# terminal: Backend
+cd backend
+python app.py
+
+# terminal: Frontend
+cd frontend
+npm run dev
+
+**prerequisites**
+- Python 3.9+
+- Node.js 16+
+- npm 8+
